@@ -1,0 +1,1 @@
+clear; chcp 65001; gcc.exe index.c limites.c produtos.c preco.c intercessao.c imprimir.c validas.c coordenadas.c historico.c recursos.c lucro.c taxa.c view.c -o index.exe; .\index.exe;
